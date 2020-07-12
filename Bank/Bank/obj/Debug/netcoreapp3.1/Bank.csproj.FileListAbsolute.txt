@@ -23,3 +23,4 @@ C:\Users\Virginia Aquino\Documents\GitHub\InformeLab02_PruebasUnitariasAplicacio
 C:\Users\Virginia Aquino\Documents\GitHub\InformeLab02_PruebasUnitariasAplicacion\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.dll
 C:\Users\Virginia Aquino\Documents\GitHub\InformeLab02_PruebasUnitariasAplicacion\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
 C:\Users\Virginia Aquino\Documents\GitHub\InformeLab02_PruebasUnitariasAplicacion\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
+C:\Users\Virginia Aquino\Documents\GitHub\InformeLab02_PruebasUnitariasAplicacion\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
